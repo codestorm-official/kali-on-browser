@@ -16,7 +16,7 @@ This project allows you to deploy a **Kali Linux Rolling** instance in the cloud
 
 This template utilizes the official `kalilinux/kali-rolling` image and [ttyd](https://github.com/tsl0922/ttyd) to provide a seamless terminal experience with built-in multi-arch support (x86_64 & ARM64).
 
-![Kali Home](./img/kali_home.png)
+![Kali Home](./img/kali_homepage.png)
 
 ---
 
